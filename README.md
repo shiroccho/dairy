@@ -1,2 +1,2 @@
-# dairy
-Work Memo Subject Diary
+# 日記のようなもの
+各種メモ類
